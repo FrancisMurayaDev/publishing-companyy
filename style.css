@@ -762,7 +762,7 @@ body {
   min-height: 100vh;
   background-image:
     linear-gradient(rgba(32, 29, 29, 0.7), rgba(46, 42, 42, 0.7)),
-    url(./assets/images/about-us-img.jpg);
+    url(./assets/images/about-us-image.jpggot);
   background-position: center;
   background-size: cover;
   display: flex;
